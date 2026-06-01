@@ -22,4 +22,5 @@ Hi, I'm Vaishnavi <br><br>I'm an AI & Data Science student passionate about tech
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaishnavii__fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-wangalwar-796776329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnaviwangalwar@gmail.com) 
-
+[![Leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30")(https://leetcode.com/u/Vaishnavii_2509/)]
+ 
