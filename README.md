@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Hi, I'm Vaishnavi, an AI & Data Science student passionate about building intelligent, data-driven applications.
+Hi, I'm Vaishnavi, an AI & Data Science student passionate about building intelligent, data-driven applications.
 
 🤖 I've built projects across **Machine Learning, Generative AI, RAG, AI Agents, and real-time ML systems**, while exploring data-driven applications and software engineering. I've also solved **200+ DSA problems** and actively exploring in technical fields and projects.
 
