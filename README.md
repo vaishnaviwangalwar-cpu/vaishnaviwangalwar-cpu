@@ -4,7 +4,7 @@ I'm an **AI & Data Science student** passionate about building intelligent, data
 
 I've built projects across **Machine Learning, Generative AI, RAG, AI Agents, and real-time ML systems**, while exploring data-driven applications and software engineering. I've also solved **200+ DSA problems** and actively explore new technologies through technical projects, communities, and hackathons.
 
- **Currently:** strengthening my **DSA**, diving deeper into **System Design, MLOps, and Generative AI**, and exploring **Open Source**.
+ **Currently:** strengthening my **DSA**, diving deeper into **System Design, MLOps, and Generative AI**.
 
 ---
 
