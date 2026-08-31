@@ -1,4 +1,4 @@
- ![Header](./github-profile-header.svg)
+ ![Header](./github-profile-header-compact.svg)
 
 Hi, I'm Vaishnavi 👋
 
