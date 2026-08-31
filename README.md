@@ -10,7 +10,7 @@ I've built projects across **Machine Learning, Generative AI, RAG, AI Agents, an
 
 ---
 
-# Tech Stack
+# 👩🏻‍💻 Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
