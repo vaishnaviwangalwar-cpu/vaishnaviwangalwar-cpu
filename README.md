@@ -1,3 +1,5 @@
+ ![Header](./github-profile-header(5).svg)
+
 Hi, I'm Vaishnavi 👋
 
 I'm an **AI & Data Science student** passionate about building intelligent, data-driven applications.
